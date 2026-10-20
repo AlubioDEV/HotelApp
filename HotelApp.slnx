@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HotelApp.BL/HotelApp.BL.csproj" />
+  <Project Path="HotelApp.DAL/HotelApp.DAL.csproj" />
+  <Project Path="HotelApp.Web/HotelApp.Web.csproj" />
+</Solution>
